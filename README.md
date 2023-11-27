@@ -10,4 +10,4 @@ Modular Design: The project is built with a modular architecture, allowing users
 
 Notebook Sharing: Jupyter Lite supports easy sharing of notebooks through simple URLs. Users can share their work with colleagues or the wider community effortlessly, fostering collaboration and knowledge exchange.
 
-# Go visit gailloty.net/jupyter
+# Go visit [gailloty.net/jupyter](https://gailloty.net/jupyter)
